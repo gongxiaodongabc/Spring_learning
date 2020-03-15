@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="8365df9b-0541-46b8-9bd8-7989aff1d03a" name="Default Changelist" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="DatabaseView">
+    <option name="SHOW_INTERMEDIATE" value="true" />
+    <option name="GROUP_DATA_SOURCES" value="true" />
+    <option name="GROUP_SCHEMA" value="true" />
+    <option name="GROUP_CONTENTS" value="false" />
+    <option name="SORT_POSITIONED" value="false" />
+    <option name="SHOW_EMPTY_GROUPS" value="false" />
+    <option name="AUTO_SCROLL_FROM_SOURCE" value="false" />
+    <option name="HIDDEN_KINDS">
+      <set />
+    </option>
+    <expand />
+    <select />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Interface" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1Z4hwbRYRNfajakU4FuC8VBzVZK" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showExcludedFiles" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../day03_eesy_01account" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\qmh\IdeaProjects\day03_eesy_02proxy\src\main\java\com\qmh\cglib" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Client (1)">
+    <configuration name="Client (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.qmh.cglib.Client" />
+      <module name="day03_eesy_02proxy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qmh.cglib.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.qmh.proxy.Client" />
+      <module name="day03_eesy_02proxy" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.qmh.proxy.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Client (1)" />
+        <item itemvalue="Application.Client" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ServiceViewManager">
+    <option name="viewStates">
+      <list>
+        <serviceView>
+          <treeState>
+            <expand />
+            <select />
+          </treeState>
+        </serviceView>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="8365df9b-0541-46b8-9bd8-7989aff1d03a" name="Default Changelist" comment="" />
+      <created>1584104512993</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1584104512993</updated>
+      <workItem from="1584104516210" duration="3265000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="832" y="189" key="FileChooserDialogImpl" timestamp="1584107782576">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="832" y="189" key="FileChooserDialogImpl/0.0.1536.864@0.0.1536.864" timestamp="1584107782576" />
+    <state width="917" height="212" key="GridCell.Tab.0.bottom" timestamp="1584107784287">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="917" height="212" key="GridCell.Tab.0.bottom/0.0.1536.864@0.0.1536.864" timestamp="1584107784287" />
+    <state width="917" height="212" key="GridCell.Tab.0.center" timestamp="1584107784287">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="917" height="212" key="GridCell.Tab.0.center/0.0.1536.864@0.0.1536.864" timestamp="1584107784287" />
+    <state width="917" height="212" key="GridCell.Tab.0.left" timestamp="1584107784287">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="917" height="212" key="GridCell.Tab.0.left/0.0.1536.864@0.0.1536.864" timestamp="1584107784287" />
+    <state width="917" height="212" key="GridCell.Tab.0.right" timestamp="1584107784287">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state width="917" height="212" key="GridCell.Tab.0.right/0.0.1536.864@0.0.1536.864" timestamp="1584107784287" />
+    <state x="714" y="185" width="672" height="678" key="search.everywhere.popup" timestamp="1584107339099">
+      <screen x="0" y="0" width="1536" height="864" />
+    </state>
+    <state x="714" y="185" width="672" height="678" key="search.everywhere.popup/0.0.1536.864@0.0.1536.864" timestamp="1584107339099" />
+  </component>
+</project>
